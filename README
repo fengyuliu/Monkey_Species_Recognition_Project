@@ -1,0 +1,25 @@
+##
+The code should be run in linux (ubuntu)
+
+# Part 1 Task 1
+Run the SVM_Kernel.m in Matlab
+Click the run button. You will be asked to input a number to choose PCA or LDA, and to choose different types of Kernels.
+Just type the number: 1 or 2
+Others are function files
+
+
+
+# Part 1 Task 2
+Copy the folder "Part1_Task2" to the root location of caffe
+cd $CAFFE_ROOT ./Part1_Task2/Run_MNIST_LeCun.sh
+Change the max iteration number in MNIST_LeCun_solver.prototxt
+The final model for 5000 iteration is attached in the folder
+
+
+
+Part 2
+Please unzip the data file "achieve" and move it to the folder
+Run Part2_Task1.py and Part2_Task2.py in python3
+epochs/batch_size and other parameters can be changed in the code
+
+
