@@ -1,8 +1,9 @@
 ##
 The code should be run in linux (ubuntu)
 
+Download the dataset here: https://www.kaggle.com/slothkong/10-monkey-species/home.
 Please unzip the data file "achieve" and move it to the folder
-Run Part2_Task1.py and Part2_Task2.py in python3
+Run Task1 and Task2 in python3
 epochs/batch_size and other parameters can be changed in the code
 
 
